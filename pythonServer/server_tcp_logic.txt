@@ -1,0 +1,57 @@
+﻿Server TCP message logic:
+
+Client connects:
+		On success: 	server sends: "SUCCESS"
+		On failure: 	server sends: "FAILED"
+				client sends: "OK"
+		
+After both clients have connected:
+						server sends: "SEND_NAME"
+						client sends back his name
+						server sends to client the other client's name
+						client sends: "OK"
+
+After both names are set:
+						server sends: "SEND_BOARD_INFO"
+		While all data hasn't been sent:
+						client sends: "(x,y,val)" where:
+							x - x coord of the appropriate cell
+							y - y coord of the appropriate cell
+							val - value of the appropriate cell
+						server sends: "ACK"
+						
+		After all data has been sent:
+						client sends: "END"
+						
+After everything is set, game starts:
+						server sends: "YOUR_TURN" if it's that client's turn
+						server sends: "PASS" if it's the other player's turn
+						
+		After this the server communicates with the client who's turn it is now:
+						client sends: "x y" where:
+							x - x coord of cell that needs to be hit
+							y - y coord of cell that needs to be hit
+				if x and y are not correct indices:
+						server sends: "INVALID_COORDINATES" and waits for another set of coordinates from client
+				if x and y refer to a field that cannot be shot at:
+						server sends: "INVALID_FIELD" and waits for another set of coordinates from client
+				if x and y are correct and refer to a correct field:
+						server sends: "OK"
+						
+		After this the server communicates with both clients:
+						client sends: “READY”
+						server sends: “x y val” where:
+							x - x coord of the cell hit by current player
+							y - y coord of the cell hit by current player
+							val - value of the cell hit by current player
+						client sends: “OK”
+
+After turn is over:
+				If game is not over:
+						server sends: “NEXT_ROUND”
+						client sends: "OK"
+				If game is over:
+						server sends: “END_GAME”
+
+						
+		

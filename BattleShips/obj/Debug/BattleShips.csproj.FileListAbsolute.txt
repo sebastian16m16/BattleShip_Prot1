@@ -1,0 +1,27 @@
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\obj\Debug\BattleShips.Form1.resources
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\obj\Debug\BattleShips.Properties.Resources.resources
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.GenerateResource.cache
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CoreCompileInputs.cache
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\obj\Debug\BattleShips.PreStartForms.TileInfo.resources
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\bin\Debug\SimpleTCP.dll
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CopyComplete
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\obj\Debug\BattleShips.PreStartForms.Login.resources
+D:\users\f93424c\Documents\Learning\C#\Visual Studio\Exercises\BattleShips\BattleShips\obj\Debug\BattleShips.csprojAssemblyReference.cache
+C:\Others\SChOoL\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+C:\Others\SChOoL\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+C:\Others\SChOoL\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+C:\Others\SChOoL\BattleShips\BattleShips\bin\Debug\SimpleTCP.dll
+C:\Others\SChOoL\BattleShips\BattleShips\obj\Debug\BattleShips.csprojAssemblyReference.cache
+C:\Others\SChOoL\BattleShips\BattleShips\obj\Debug\BattleShips.Form1.resources
+C:\Others\SChOoL\BattleShips\BattleShips\obj\Debug\BattleShips.PreStartForms.Login.resources
+C:\Others\SChOoL\BattleShips\BattleShips\obj\Debug\BattleShips.PreStartForms.TileInfo.resources
+C:\Others\SChOoL\BattleShips\BattleShips\obj\Debug\BattleShips.Properties.Resources.resources
+C:\Others\SChOoL\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.GenerateResource.cache
+C:\Others\SChOoL\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CopyComplete
+C:\Others\SChOoL\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+C:\Others\SChOoL\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
